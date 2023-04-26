@@ -8,12 +8,12 @@ In this project, we will use the MNIST dataset to train a neural network model t
 ### Prerequisites
 To run this project, you will need the following:
 
--Python 3.x
--Tensorflow 2.x
--Keras
--NumPy
--Matplotlib
--Jupyter
+* Python 3.x
+* Tensorflow 2.x
+* Keras
+* NumPy
+* Matplotlib
+* Jupyter
 
 ### Installation
 To install the required dependencies, run the following command:
